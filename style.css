@@ -1,0 +1,45 @@
+h1 {
+    color: green;
+}
+
+body{
+
+background-color:#d7d7a8 ;
+font-weight: bold;
+}
+
+h2{
+    color:goldenrod;
+}
+
+main {
+    font-size: 17px;
+    font-family: "times new roman";
+}
+
+.amigas {
+    width: 280px;
+    height: 280px;
+}
+
+ #contenidoamigas{
+     display: flex;
+     justify-content: center;
+ }
+
+ #video {
+    display: flex;
+    justify-content: center;
+    
+ }
+
+ 
+h4{
+    color:black;
+}
+
+
+  
+
+
+ 
